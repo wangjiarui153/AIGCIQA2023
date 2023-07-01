@@ -9,6 +9,7 @@ We select 10 scene categories from the prompt set, and each scene contains 10 ch
 Overall, we collect 100 text prompts (10 scene categories $\times$ 10 challenge categories) from PartiPrompts.
 It can be observed that the dataset exhibits a high level of scene diversity, with images generated covering a broad range of challenges.
 Then we perform the text-to-image generation based on these models and prompts. Specifically, for each prompt, we generate 4 various images randomly for each generative model. Therefore, the constructed AIGCIQA2023 database totally contains 2400 AIGIs (4 images $\times$ 6 models $\times$ 100 prompts) corresponding to 100 prompts.
-[Uploading samples_imgs.pdf…]()
+![samples_imgs_00](https://github.com/wangjiarui153/AIGCIQA2023/assets/104545370/ab434e91-a766-4de4-babd-1d8fe5cb70c0)
+
 
 Contact: If you want to get the database please send email to wangjiarui@sjtu.edu.cn
