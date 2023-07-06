@@ -2,7 +2,16 @@
 This is the official repo of the paper [AIGCIQA2023: A Large-scale Image Quality Assessment Database for AI
   Generated Images: from the Perspectives of Quality, Authenticity and
   Correspondence](http://arxiv.org/abs/2307.00211):
-  
+  ```
+@misc{wang2023aigciqa2023,
+      title={AIGCIQA2023: A Large-scale Image Quality Assessment Database for AI Generated Images: from the Perspectives of Quality, Authenticity and Correspondence}, 
+      author={Jiarui Wang and Huiyu Duan and Jing Liu and Shi Chen and Xiongkuo Min and Guangtao Zhai},
+      year={2023},
+      eprint={2307.00211},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 In order to get a better understanding of human visual preferences for AI-generated images based on text prompts, we construct a novel IQA database for AIGIs, termed AIGCIQA2023, which is a collection of generated images derived from six state-of-the-art deep generative models based on 100 text prompts, and corresponding subjective quality ratings from three different perspectives.
 
 We adopt six latest text-to-image generative models, including **Glide, Lafite, DALLE, Stable-diffusion, Unidiffuser, Controlnet** to produce AIGIs.
