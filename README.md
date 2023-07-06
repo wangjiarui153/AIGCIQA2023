@@ -14,4 +14,4 @@ Then we perform the text-to-image generation based on these models and prompts. 
 ![samples_imgs_00](https://github.com/wangjiarui153/AIGCIQA2023/assets/104545370/ab434e91-a766-4de4-babd-1d8fe5cb70c0)
 
 
-Contact: If you want to get the database please send email to wangjiarui@sjtu.edu.cn
+### Contact: If you have any question or would like to request for the database, please contact wangjiarui@sjtu.edu.cn
