@@ -30,6 +30,6 @@ on our constructed database.*
 ### Database
 The constructed AIGCIQA2023 database can be accessed using the links below.
 Download AIGCIQA2023 database:[百度网盘](https://pan.baidu.com/s/1v85j6hKJcRcHm74FDTEosA) 
-提取码：q9dt)[Terabox](https://terabox.com/s/1DtV-A9XiuQQDvVPXn6rYvg)
+(提取码：q9dt), [Terabox](https://terabox.com/s/1DtV-A9XiuQQDvVPXn6rYvg)
 ### Contact
-If you have any question or would like to request for the [database](https://terabox.com/s/1DtV-A9XiuQQDvVPXn6rYvg), please contact wangjiarui@sjtu.edu.cn
+If you have any question, please contact wangjiarui@sjtu.edu.cn
