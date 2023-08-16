@@ -29,7 +29,7 @@ on our constructed database.*
 ![samples_imgs_00](https://github.com/wangjiarui153/AIGCIQA2023/assets/104545370/ab434e91-a766-4de4-babd-1d8fe5cb70c0)
 ### Database
 The constructed AIGCIQA2023 database can be accessed using the links below.
-Download AIGCIQA2023 database:[百度网盘](链接：https://pan.baidu.com/s/1v85j6hKJcRcHm74FDTEosA 
+Download AIGCIQA2023 database:[百度网盘](https://pan.baidu.com/s/1v85j6hKJcRcHm74FDTEosA) 
 提取码：q9dt)[Terabox](https://terabox.com/s/1DtV-A9XiuQQDvVPXn6rYvg)
 ### Contact
 If you have any question or would like to request for the [database](https://terabox.com/s/1DtV-A9XiuQQDvVPXn6rYvg), please contact wangjiarui@sjtu.edu.cn
