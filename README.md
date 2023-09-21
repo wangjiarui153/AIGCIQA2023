@@ -34,11 +34,11 @@ Download AIGCIQA2023 database:[[百度网盘](https://pan.baidu.com/s/1v85j6hKJc
 
 The mapping relationship between MOS points and filenames are as follows:
 
-# mosz1: Quality
+**mosz1**: Quality
 
-# mosz2: Authenticity
+**mosz2**: Authenticity
 
-# mosz3: Correspondence
+**mosz3**: Correspondence
 
 ### Contact
 If you have any question, please contact wangjiarui@sjtu.edu.cn
