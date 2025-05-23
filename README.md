@@ -41,8 +41,10 @@ on our constructed database.*
 ![samples_imgs_00](https://github.com/wangjiarui153/AIGCIQA2023/assets/104545370/ab434e91-a766-4de4-babd-1d8fe5cb70c0)
 ### Database
 The constructed AIGCIQA2023 database can be accessed using the links below.
-Download AIGCIQA2023 database:[![🤗 Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-green)](https://huggingface.co/datasets/IntMeGroup/AIGCIQA2023/tree/main)[百度网盘](https://pan.baidu.com/s/1v85j6hKJcRcHm74FDTEosA) 
-(提取码：q9dt)], [[Terabox](https://terabox.com/s/1DtV-A9XiuQQDvVPXn6rYvg)]
+Download AIGCIQA2023 database:
+1. [![🤗 Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-green)](https://huggingface.co/datasets/IntMeGroup/AIGCIQA2023/tree/main)
+2. [百度网盘](https://pan.baidu.com/s/1v85j6hKJcRcHm74FDTEosA) (提取码：q9dt)]
+3. [[Terabox](https://terabox.com/s/1DtV-A9XiuQQDvVPXn6rYvg)]
 
 The mapping relationship between MOS points and filenames are as follows:
 
