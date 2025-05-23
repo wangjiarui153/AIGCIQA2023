@@ -1,4 +1,16 @@
 # AIGCIQA2023
+<div align="center">
+  
+<a href="https://arxiv.org/abs/2307.00211"><img src="https://img.shields.io/badge/Arxiv-2307:002115-red"></a>
+<a href="https://huggingface.co/datasets/IntMeGroup/AIGCIQA2023/tree/main"><img src="https://img.shields.io/badge/Dataset-Download-red?logo=googlechrome&logoColor=red"></a>
+</div>
+<div>
+
+  <h1>AIGV-Assessor: Benchmarking and Evaluating the Perceptual Quality of Text-to-Video Generation with LMM</h1> 
+</div>
+
+<img width="width: 80%" alt="e02e6d28a5d659643e8aeb8d3075740" src="https://github.com/user-attachments/assets/8931d647-7837-4aeb-8c5b-fa077383a48c">
+
 This is the official repo of the paper [AIGCIQA2023: A Large-scale Image Quality Assessment Database for AI
   Generated Images: from the Perspectives of Quality, Authenticity and
   Correspondence](http://arxiv.org/abs/2307.00211):
