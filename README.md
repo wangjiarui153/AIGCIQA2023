@@ -6,7 +6,7 @@
 </div>
 <div>
 
-  <h1> AIGCIQA2023: : A Large-scale Image Quality Assessment Database for AI
+  <h1> AIGCIQA2023: A Large-scale Image Quality Assessment Database for AI
   Generated Images</h1> 
 </div>
 
